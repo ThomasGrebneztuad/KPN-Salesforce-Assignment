@@ -3,13 +3,17 @@ KPN Salesforce Assignment (Test1 &amp; Test2)
 
 # Prerequisites:
 Robotframework needs to be installed
+
 Python needs to be installed
+
 Chrome webdriver installed
 
 Following Libraries are used
 
 Library           String
-Library           SeleniumLibrary    timeout=15
+
+Library           SeleniumLibrary
+
 Library           ScreenCapLibrary
 
 
