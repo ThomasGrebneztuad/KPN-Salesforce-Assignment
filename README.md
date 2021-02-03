@@ -18,9 +18,7 @@ Library           ScreenCapLibrary
 
 
 # Remarks:
-#some bug causes that the tab for creating new contract opens twice when selecting to open with enter, if this would not happen iframeid would be iFrameResizer1 instead of iFrameResizer2
-
-#Contract number is logged to console
+#Contract number in Test 1 is logged to console
 
 #for repetion purposes, created contract could be deleted as tear down, but not requested in test
 
